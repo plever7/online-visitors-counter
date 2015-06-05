@@ -1,9 +1,9 @@
 {
-  "description": "Collaborative painting app with socket.io",
-  "version": "0.0.1-1",
-  "homepage": "http://xjamundx.no.de",
+  "description": " Real-time online visitors counter using Node.js (Express.js), Socket.io and RethinkDB (rethinkdbdash)
+",
+  "version": "0.0.1-1",  
   "engines": {
-    "node": "0.8.x"
+    "node": "0.12.4"
   },
   "dependencies": {
     "express": "~3.3.8",
@@ -12,5 +12,5 @@
   "scripts": {
     "start": "server.js"
   },
-  
+ 
 }
