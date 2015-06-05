@@ -1,0 +1,17 @@
+{
+  "description": "Collaborative painting app with socket.io",
+  "version": "0.0.1-1",
+  "homepage": "http://xjamundx.no.de",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "express": "~3.3.8",
+    "socket.io": "~0.9.16"
+  },
+  "scripts": {
+    "start": "server.js"
+  },
+  "name": "paint",
+  "subdomain": "xpaintx"
+}

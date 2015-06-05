@@ -1,0 +1,37 @@
+body {
+	background: black;
+	text-align: center;
+	font-family: Arial;
+}
+
+h1 {
+	color: red;
+	font-weight: bold;
+}
+
+#canvas {
+	background-color: black;
+	cursor: pointer;
+}
+
+#controls {
+	color: white;
+	top: 0;
+	right: 0px;
+	background: white;
+	padding: 16px;
+	position: absolute;
+	border-radius: 0 0 0 16px;
+	color: black;
+}
+
+#game {
+
+	border: 2px solid white;
+
+	width: 640px;
+	margin: 0 auto;
+	height: 480px;
+	overflow: hidden;
+	position: relative;
+}

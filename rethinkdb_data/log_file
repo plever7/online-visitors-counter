@@ -1,0 +1,15 @@
+2015-06-05T18:55:18.723274369 0.482346s notice: Recursively removing directory /home/sarvan/Desktop/visitors/online-visitors-counter/rethinkdb_data/tmp
+2015-06-05T18:55:18.752929743 0.512000s notice: Initializing directory /home/sarvan/Desktop/visitors/online-visitors-counter/rethinkdb_data
+2015-06-05T18:55:18.753194930 0.512265s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/sarvan/Desktop/visitors/online-visitors-counter/rethinkdb_data' did not already exist or is empty.)
+2015-06-05T18:55:18.753252967 0.512323s notice: Running rethinkdb 2.0.2~0trusty (GCC 4.8.2)...
+2015-06-05T18:55:18.760001237 0.519074s notice: Running on Linux 3.13.0-32-generic x86_64
+2015-06-05T18:55:18.760083719 0.519154s notice: Loading data from directory /home/sarvan/Desktop/visitors/online-visitors-counter/rethinkdb_data
+2015-06-05T18:55:18.864957076 0.624027s info: Automatically using cache size of 100 MB
+2015-06-05T18:55:18.865196445 0.624266s warn: Cache size does not leave much memory for server and query overhead (available memory: 832 MB).
+2015-06-05T18:55:18.865200044 0.624270s warn: Cache size is very low and may impact performance.
+2015-06-05T18:55:18.865775473 0.624845s notice: Listening for intracluster connections on port 29015
+2015-06-05T18:55:18.866985944 0.626056s notice: Listening for client driver connections on port 28015
+2015-06-05T18:55:18.867128465 0.626198s notice: Listening for administrative HTTP connections on port 8080
+2015-06-05T18:55:18.867128948 0.626199s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-06-05T18:55:18.867130768 0.626200s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-06-05T18:55:18.867132524 0.626202s notice: Server ready, "sarvan_VirtualBox_z29" 85804301-33ed-4973-aba3-88d1caa40705
