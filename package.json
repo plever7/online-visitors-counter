@@ -7,10 +7,10 @@
   },
   "dependencies": {
     "express": "~3.3.8",
-    "socket.io": "~0.9.16"
+    "socket.io": "~0.9.16",
+    "rethinkdbdash" : "2.0.11"
   },
   "scripts": {
     "start": "server.js"
-  },
- 
+  } 
 }
