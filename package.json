@@ -1,6 +1,5 @@
 {
-  "description": " Real-time online visitors counter using Node.js (Express.js), Socket.io and RethinkDB (rethinkdbdash)
-",
+  "description": " Real-time online visitors counter using Node.js (Express.js), Socket.io and RethinkDB (rethinkdbdash)",
   "version": "0.0.1-1",  
   "engines": {
     "node": "0.12.4"
